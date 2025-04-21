@@ -2,12 +2,14 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
-
+* 51462 Joaquín García Forestello
+* 50328 Guillermo Petri
+* 47394 Ignacio Rodríguez Giménez
+* 47395 Valentín Rodríguez Giménez
+  
 ### Repositorios
 * [frontend app](https://github.com/ValentinR19/tp-dsw-frontend)
 * [backend app](https://github.com/ValentinR19/tp-dsw-backend)
-*Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
 ### Descripción
