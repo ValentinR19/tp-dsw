@@ -29,19 +29,8 @@ Sistema CRM para la gestión de clientes, productos y pedidos, orientado a la op
 
 ---
 
-### Alcance Adicional Voluntario
 
-*Nota*: El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
-
-| **Req**             | **Detalle**                                                                                                                |
-|---------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **Listados**        | 1. **Listado de Pedidos por Cliente**: muestra los pedidos realizados por un cliente, filtrados por fecha o estado. <br> 2. **Listado de Productos por Categoría**: filtro por categoría de producto, muestra productos pertenecientes a la misma categoría. |
-| **CUU/Epic**        | 1. **Gestión de Stock**: al confirmar un pedido, descontar automáticamente el stock de productos. <br> 2. **Generar Reporte de Ventas**: reporte descargable de ventas realizadas por fecha, cliente y productos vendidos. |
-| **Otros**           | 1. **Envío de Confirmación de Pedido por Email**: notificación por email al cliente cuando un nuevo pedido ha sido confirmado. |
-
----
-
-### Epics Propuestos (con interconexión)
+### Epics Propuestos 
 
 | **Epic**                          | **Detalle**                                                                                                                  |
 |------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
