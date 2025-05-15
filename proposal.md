@@ -16,7 +16,8 @@
 Sistema CRM para la gestión de clientes, productos y pedidos, orientado a la optimización de ventas y control de inventarios. Permite gestionar usuarios, productos, realizar pedidos y consultar el historial de ventas. Con enfoque en una experiencia de usuario sencilla y un control eficiente del inventario.
 
 ### Modelo
-[Imagen](https://drive.google.com/file/d/1hRvQYCLcNNTwNJydMkqERwDMfqHMlLvO/view?usp=sharing)
+[Imagen]
+![DER drawio](https://github.com/user-attachments/assets/8ac67f66-4e0e-437e-86f0-a2696de95c74)
 
 ### Alcance Funcional
 
