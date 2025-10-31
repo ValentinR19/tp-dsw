@@ -17,9 +17,10 @@ Sistema CRM para la gestión de clientes, productos y pedidos, orientado a la op
 
 ### Modelo
 [Imagen]
-![DER drawio](https://github.com/user-attachments/assets/8ac67f66-4e0e-437e-86f0-a2696de95c74)
 
-### Alcance Funcional
+
+### Alcance Funcional<img width="8130" height="5616" alt="Untitled diagram-2025-10-31-193056" src="https://github.com/user-attachments/assets/1fb37ef2-ef9e-4f33-b924-7b9951fa9475" />
+
 
 | **Req**             | **Detalle**                                                                                                                |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------|
